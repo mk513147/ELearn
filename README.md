@@ -1,6 +1,6 @@
 # ELearn
 
-##What it should do?
+## What it should do?
 - Provide resources in the form of various learning platforms.
 - Helps Select to choose path.
 - Helps to choose projects
@@ -11,7 +11,7 @@
 - Youtube Playlists
 - Github for project and apis
 
-##Roles
+## Roles
 - Admin (review and post data)
 - R&d team
 - Common user
