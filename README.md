@@ -10,11 +10,18 @@
 - Websites
 - Youtube Playlists
 - Github for project and apis
+- Documents websites like mdn any others
+- Social Media Channels
+  
 
 ## Roles
 - Admin (review and post data)
 - R&d team
 - Common user
 
+
+## Refrences
+- The odin project
+- 14 DSA
 
 
